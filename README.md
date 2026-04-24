@@ -1,4 +1,4 @@
-# 🍌 Nupenca Bank — Seu banco sem frescura
+#  Nupenca Bank — Seu banco sem frescura
 
 O Nupenca é uma aplicação bancária moderna (Fintech) que combina uma estética premium com funcionalidades robustas de segurança e inteligência artificial. Com o slogan *"O banco que descasca pra você"*, o projeto foca em uma experiência de usuário (UX) fluida e visualmente impactante.
 
