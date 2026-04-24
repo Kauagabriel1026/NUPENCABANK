@@ -16,11 +16,3 @@ O Nupenca é uma aplicação bancária moderna (Fintech) que combina uma estéti
 *   **Frontend:** HTML5, CSS3 (Vanilla) e JavaScript ES6+.
 *   **Backend:** Google Firebase (Auth, Firestore, Hosting).
 *   **IA:** Groq API (Llama 3).
-
-## Como Executar o Projeto
-
-1.  Clone o repositório:
-    ```bash
-    git clone https://github.com/SEU-USUARIO/nupencat.git
-    ```
-2.  Abra o arquivo `index.html` em seu navegador.
