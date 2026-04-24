@@ -1,0 +1,16 @@
+# Dependências
+node_modules/
+.DS_Store
+
+# Firebase
+.firebase/
+firebug.log
+firebase-debug.log
+ui-debug.log
+
+# Segredos / Configurações locais
+.env
+.env.local
+
+# Git
+.git/
